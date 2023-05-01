@@ -221,6 +221,10 @@ span {
 }
 
 @media only screen and (max-width:428px) {
+  #root {
+    max-width: 428px;
+  }
+
   .showcase {
     max-width: 350px;
   }
@@ -251,6 +255,10 @@ span {
 }
 
 @media only screen and (max-width:375px) {
+  #root {
+    max-width: 375px;
+  }
+
   .showcase {
     max-width: 300px;
   }
@@ -265,6 +273,10 @@ span {
 }
 
 @media only screen and (max-width:320px) {
+  #root {
+    max-width: 320px;
+  }
+
   .showcase {
     max-width: 250px;
   }
@@ -292,6 +304,10 @@ span {
 }
 
 @media only screen and (max-width:162px) {
+  #root {
+    max-width: 162px;
+  }
+
   .showcase {
     max-width: 150px;
   }
