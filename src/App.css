@@ -221,6 +221,9 @@ span {
 }
 
 @media only screen and (max-width:428px) {
+  body {
+  overflow-x: hidden;
+}
   #root {
     max-width: 428px;
   }
@@ -255,6 +258,9 @@ span {
 }
 
 @media only screen and (max-width:375px) {
+  body {
+    overflow-x: hidden;
+  }
   #root {
     max-width: 375px;
   }
@@ -273,6 +279,9 @@ span {
 }
 
 @media only screen and (max-width:320px) {
+  body {
+    overflow-x: hidden;
+  }
   #root {
     max-width: 320px;
   }
@@ -304,6 +313,9 @@ span {
 }
 
 @media only screen and (max-width:162px) {
+  body {
+    overflow-x: hidden;
+  }
   #root {
     max-width: 162px;
   }
